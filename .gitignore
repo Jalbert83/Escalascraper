@@ -1,0 +1,7 @@
+*.xlsx
+*.csv
+*.exe
+*.pdf
+Pdfs/
+PdfsMontserrat/
+.idea/
